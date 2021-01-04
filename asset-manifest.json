@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Girl-Code-It-Website-Frontend/static/css/main.e218720b.chunk.css",
+    "main.js": "/Girl-Code-It-Website-Frontend/static/js/main.0ffaa9f8.chunk.js",
+    "main.js.map": "/Girl-Code-It-Website-Frontend/static/js/main.0ffaa9f8.chunk.js.map",
+    "runtime-main.js": "/Girl-Code-It-Website-Frontend/static/js/runtime-main.e250e884.js",
+    "runtime-main.js.map": "/Girl-Code-It-Website-Frontend/static/js/runtime-main.e250e884.js.map",
+    "static/js/2.92f60831.chunk.js": "/Girl-Code-It-Website-Frontend/static/js/2.92f60831.chunk.js",
+    "static/js/2.92f60831.chunk.js.map": "/Girl-Code-It-Website-Frontend/static/js/2.92f60831.chunk.js.map",
+    "index.html": "/Girl-Code-It-Website-Frontend/index.html",
+    "precache-manifest.5ed5865ad6b6d083fbb107659ae689ca.js": "/Girl-Code-It-Website-Frontend/precache-manifest.5ed5865ad6b6d083fbb107659ae689ca.js",
+    "service-worker.js": "/Girl-Code-It-Website-Frontend/service-worker.js",
+    "static/css/main.e218720b.chunk.css.map": "/Girl-Code-It-Website-Frontend/static/css/main.e218720b.chunk.css.map",
+    "static/js/2.92f60831.chunk.js.LICENSE.txt": "/Girl-Code-It-Website-Frontend/static/js/2.92f60831.chunk.js.LICENSE.txt",
+    "static/media/AboutUsImg.png": "/Girl-Code-It-Website-Frontend/static/media/AboutUsImg.3bed171e.png",
+    "static/media/GCI.png": "/Girl-Code-It-Website-Frontend/static/media/GCI.f69ab5fb.png",
+    "static/media/code.svg": "/Girl-Code-It-Website-Frontend/static/media/code.0a072df2.svg",
+    "static/media/girl.svg": "/Girl-Code-It-Website-Frontend/static/media/girl.7db7cc52.svg",
+    "static/media/image1.svg": "/Girl-Code-It-Website-Frontend/static/media/image1.c297222b.svg",
+    "static/media/image2.svg": "/Girl-Code-It-Website-Frontend/static/media/image2.09cfa729.svg",
+    "static/media/image3.svg": "/Girl-Code-It-Website-Frontend/static/media/image3.c8dc4ab9.svg",
+    "static/media/image4.svg": "/Girl-Code-It-Website-Frontend/static/media/image4.f97c2f73.svg",
+    "static/media/image5.svg": "/Girl-Code-It-Website-Frontend/static/media/image5.a38db861.svg",
+    "static/media/image6.svg": "/Girl-Code-It-Website-Frontend/static/media/image6.8c13466d.svg",
+    "static/media/questionsForm.png": "/Girl-Code-It-Website-Frontend/static/media/questionsForm.5013067f.png",
+    "static/media/smallscreen.png": "/Girl-Code-It-Website-Frontend/static/media/smallscreen.24178486.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e250e884.js",
+    "static/js/2.92f60831.chunk.js",
+    "static/css/main.e218720b.chunk.css",
+    "static/js/main.0ffaa9f8.chunk.js"
+  ]
+}
