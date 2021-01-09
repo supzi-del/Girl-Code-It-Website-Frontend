@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9b90ac0069af7ea2f7e6c69ea8db5c1",
+    "revision": "915f5df53dec80c69d99dc43d3c7cab0",
     "url": "/Girl-Code-It-Website-Frontend/index.html"
   },
   {
-    "revision": "c2ecd74980a19069fb11",
-    "url": "/Girl-Code-It-Website-Frontend/static/css/main.e218720b.chunk.css"
+    "revision": "76923ab04f33b6090e19",
+    "url": "/Girl-Code-It-Website-Frontend/static/css/main.52243c73.chunk.css"
   },
   {
-    "revision": "f6a7bd17f0b6873b8c3b",
-    "url": "/Girl-Code-It-Website-Frontend/static/js/2.92f60831.chunk.js"
+    "revision": "7c77fe77acab531729c0",
+    "url": "/Girl-Code-It-Website-Frontend/static/js/2.8587434b.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Girl-Code-It-Website-Frontend/static/js/2.92f60831.chunk.js.LICENSE.txt"
+    "url": "/Girl-Code-It-Website-Frontend/static/js/2.8587434b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c2ecd74980a19069fb11",
-    "url": "/Girl-Code-It-Website-Frontend/static/js/main.0ffaa9f8.chunk.js"
+    "revision": "76923ab04f33b6090e19",
+    "url": "/Girl-Code-It-Website-Frontend/static/js/main.77988fa8.chunk.js"
   },
   {
     "revision": "e670b2840d202639c7fd",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3bed171ea9ea4794b846ddafd35ae39f",
     "url": "/Girl-Code-It-Website-Frontend/static/media/AboutUsImg.3bed171e.png"
+  },
+  {
+    "revision": "4870a984039394b1450be74fba078c52",
+    "url": "/Girl-Code-It-Website-Frontend/static/media/GCI.4870a984.png"
   },
   {
     "revision": "f69ab5fbe4567d13f3204906c73c5a05",
