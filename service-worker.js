@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Girl-Code-It-Website-Frontend/precache-manifest.46edaa93e80148abf1cb4e9b1033ad92.js"
+  "/Girl-Code-It-Website-Frontend/precache-manifest.ec05422aa0aa2893fa49e7f0f8f27339.js"
 );
 
 self.addEventListener('message', (event) => {
