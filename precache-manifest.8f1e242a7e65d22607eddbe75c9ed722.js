@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a199871dc5dd5f3d856f066c358edcf",
+    "revision": "756a79f7db3db863aa89fcb476a19ed2",
     "url": "/Girl-Code-It-Website-Frontend/index.html"
   },
   {
-    "revision": "e804e3ba00fa44bb0db9",
-    "url": "/Girl-Code-It-Website-Frontend/static/css/main.f50f541c.chunk.css"
+    "revision": "6544d26a2744f303fa3e",
+    "url": "/Girl-Code-It-Website-Frontend/static/css/main.dc691d01.chunk.css"
   },
   {
-    "revision": "452eebd4a9f66d99da65",
-    "url": "/Girl-Code-It-Website-Frontend/static/js/2.d7ce6e0a.chunk.js"
+    "revision": "b027e4e8754cb0136749",
+    "url": "/Girl-Code-It-Website-Frontend/static/js/2.12eddee7.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Girl-Code-It-Website-Frontend/static/js/2.d7ce6e0a.chunk.js.LICENSE.txt"
+    "url": "/Girl-Code-It-Website-Frontend/static/js/2.12eddee7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e804e3ba00fa44bb0db9",
-    "url": "/Girl-Code-It-Website-Frontend/static/js/main.255bd3aa.chunk.js"
+    "revision": "6544d26a2744f303fa3e",
+    "url": "/Girl-Code-It-Website-Frontend/static/js/main.031b39a2.chunk.js"
   },
   {
     "revision": "e670b2840d202639c7fd",
@@ -40,6 +40,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Girl-Code-It-Website-Frontend/static/media/Pay.176c551e.png"
   },
   {
+    "revision": "d239eef195932ce81dbcd0a735f37f5b",
+    "url": "/Girl-Code-It-Website-Frontend/static/media/aarushi.d239eef1.jpg"
+  },
+  {
+    "revision": "be9e64d18fc1866633b58142d148b9b5",
+    "url": "/Girl-Code-It-Website-Frontend/static/media/aastha-agarwal.be9e64d1.jpg"
+  },
+  {
     "revision": "4e3ce79f29067d9e2002f7ecf000a72e",
     "url": "/Girl-Code-It-Website-Frontend/static/media/box.4e3ce79f.svg"
   },
@@ -58,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "94c61a2694b3c3a59d23ad3154ca3e70",
     "url": "/Girl-Code-It-Website-Frontend/static/media/girl.94c61a26.svg"
+  },
+  {
+    "revision": "542f17cd86b356f3503dffa29529d673",
+    "url": "/Girl-Code-It-Website-Frontend/static/media/harsha-gupta.542f17cd.jpg"
   },
   {
     "revision": "c297222b16f0f8534b36efaafbda7a3e",
@@ -84,6 +96,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Girl-Code-It-Website-Frontend/static/media/image6.8c13466d.svg"
   },
   {
+    "revision": "01b5dd70ebfd9e66306c8471a0bda800",
+    "url": "/Girl-Code-It-Website-Frontend/static/media/kashika-jain.01b5dd70.jpg"
+  },
+  {
     "revision": "a5fc1d1546ea5193a0755881a7ab32d2",
     "url": "/Girl-Code-It-Website-Frontend/static/media/query.a5fc1d15.png"
   },
@@ -92,7 +108,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Girl-Code-It-Website-Frontend/static/media/questionsForm.5013067f.png"
   },
   {
+    "revision": "075121ebc7d22985fe8172d88dd70cf4",
+    "url": "/Girl-Code-It-Website-Frontend/static/media/raksha-gupta.075121eb.jpg"
+  },
+  {
     "revision": "24178486b58f785f485c67bc22919502",
     "url": "/Girl-Code-It-Website-Frontend/static/media/smallscreen.24178486.png"
+  },
+  {
+    "revision": "e0a17fb62b5a2683a511b2b7c37fd1d4",
+    "url": "/Girl-Code-It-Website-Frontend/static/media/vanshika-kapoor.e0a17fb6.jpg"
   }
 ]);
